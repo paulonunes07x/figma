@@ -29,7 +29,8 @@ Inclua aqui as imagens dos protótipos de interface do seu projeto. Você pode i
 
 ![Protótipo 3]![musculação intermediário](https://github.com/paulonunes07x/figma/assets/167910043/09e2a55d-1c10-46bf-8273-f50c09548b19)
 
-![Protótipo 4](images/prototipo4.png)
+![Protótipo 4]![musculação avançado](https://github.com/paulonunes07x/figma/assets/167910043/2235e23a-ab3f-4cd6-8496-b64f097ed34b)
+
 ![Protótipo 5](images/prototipo5.png)
 ![Protótipo 6](images/prototipo6.png)
 ![Protótipo 7](images/prototipo7.png)
