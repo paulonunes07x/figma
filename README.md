@@ -50,7 +50,8 @@ Inclua aqui as imagens das especificações técnicas do seu projeto. Você pode
 
 ![Icons]![icons](https://github.com/paulonunes07x/figma/assets/167910043/b1fd3f0e-47d1-49bc-a89f-5925e6b31e47)
 
-![Especificação 2](images/especificacao2.png)
+![fonte]![fontes](https://github.com/paulonunes07x/figma/assets/167910043/3e0a1942-fe92-4fc8-af0a-698a040c5ce1)
+
 ![Especificação 3](images/especificacao3.png)
 ![Especificação 4](images/especificacao4.png)
 
