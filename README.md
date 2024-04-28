@@ -23,23 +23,24 @@ Uma descrição mais detalhada do projeto, incluindo sua finalidade, contexto e 
 
 Inclua aqui as imagens dos protótipos de interface do seu projeto. Você pode incluir até 9 imagens.
 
-![Protótipo 1]![pag inicial](https://github.com/paulonunes07x/figma/assets/167910043/2f69ca4d-2760-432b-b766-6176b5c72fe3)
+![Pag Inicial]![pag inicial](https://github.com/paulonunes07x/figma/assets/167910043/2f69ca4d-2760-432b-b766-6176b5c72fe3)
 
-![Protótipo 2]![musculação iniciante](https://github.com/paulonunes07x/figma/assets/167910043/d581fd0f-55e6-4c95-b20c-d7ad52572835)
+![musculação Inciante]![musculação iniciante](https://github.com/paulonunes07x/figma/assets/167910043/d581fd0f-55e6-4c95-b20c-d7ad52572835)
 
-![Protótipo 3]![musculação intermediário](https://github.com/paulonunes07x/figma/assets/167910043/09e2a55d-1c10-46bf-8273-f50c09548b19)
+![musculação intermediário]![musculação intermediário](https://github.com/paulonunes07x/figma/assets/167910043/09e2a55d-1c10-46bf-8273-f50c09548b19)
 
-![Protótipo 4]![musculação avançado](https://github.com/paulonunes07x/figma/assets/167910043/2235e23a-ab3f-4cd6-8496-b64f097ed34b)
+![musculação avançado]![musculação avançado](https://github.com/paulonunes07x/figma/assets/167910043/2235e23a-ab3f-4cd6-8496-b64f097ed34b)
 
-![Protótipo 5]![sobre](https://github.com/paulonunes07x/figma/assets/167910043/3cd63439-3290-4dcc-b659-6d0d5e9ac07a)
+![sobre]![sobre](https://github.com/paulonunes07x/figma/assets/167910043/3cd63439-3290-4dcc-b659-6d0d5e9ac07a)
 
-![Protótipo 6]![Termos de Uso](https://github.com/paulonunes07x/figma/assets/167910043/6ca7d6b1-8d43-400a-bb36-cb198465c646)
+![Termos de Uso]![Termos de Uso](https://github.com/paulonunes07x/figma/assets/167910043/6ca7d6b1-8d43-400a-bb36-cb198465c646)
 
-![Protótipo 7]![Política de Cookies](https://github.com/paulonunes07x/figma/assets/167910043/dc212e5b-f45e-4a0e-8b1b-ea3888b87622)
+![Política de Cookies]![Política de Cookies](https://github.com/paulonunes07x/figma/assets/167910043/dc212e5b-f45e-4a0e-8b1b-ea3888b87622)
 
-![Protótipo 8]![Política de Privacidade](https://github.com/paulonunes07x/figma/assets/167910043/3f65916b-f652-4b76-ae53-83681a35af8b)
+![Política de Privacidade]![Política de Privacidade](https://github.com/paulonunes07x/figma/assets/167910043/3f65916b-f652-4b76-ae53-83681a35af8b)
 
-![Protótipo 9](images/prototipo9.png)
+![contato]![contato](https://github.com/paulonunes07x/figma/assets/167910043/491202dd-7ebf-47d5-b591-1ac04c510c44)
+
 
 ## Especificações
 
