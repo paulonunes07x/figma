@@ -52,7 +52,8 @@ Inclua aqui as imagens das especificações técnicas do seu projeto. Você pode
 
 ![fonte]![fontes](https://github.com/paulonunes07x/figma/assets/167910043/3e0a1942-fe92-4fc8-af0a-698a040c5ce1)
 
-![Especificação 3](images/especificacao3.png)
+![cores]![cores](https://github.com/paulonunes07x/figma/assets/167910043/f29b9a5a-8692-4558-8853-f0501a5fa9f1)
+
 ![Especificação 4](images/especificacao4.png)
 
 ## Instalação
