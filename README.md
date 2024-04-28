@@ -37,7 +37,8 @@ Inclua aqui as imagens dos protótipos de interface do seu projeto. Você pode i
 
 ![Protótipo 7]![Política de Cookies](https://github.com/paulonunes07x/figma/assets/167910043/dc212e5b-f45e-4a0e-8b1b-ea3888b87622)
 
-![Protótipo 8](images/prototipo8.png)
+![Protótipo 8]![Política de Privacidade](https://github.com/paulonunes07x/figma/assets/167910043/3f65916b-f652-4b76-ae53-83681a35af8b)
+
 ![Protótipo 9](images/prototipo9.png)
 
 ## Especificações
