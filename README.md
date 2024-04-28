@@ -8,8 +8,7 @@ Vocês visualizarão o meu projeto Figma da seguinte maneira: primeiro, vou deix
 
 ## Aviso Importante
 
-Este site buscará auxiliar aqueles que desejam adentrar no universo da musculação ou buscam conteúdo de apoio. Apesar de embasado em artigos científicos, é importante salientar que não foi elaborado por um profissional
-Uma descrição mais detalhada do projeto, incluindo sua finalidade, contexto e qualquer informação relevante.
+Este site buscará auxiliar aqueles que desejam adentrar no universo da musculação ou buscam conteúdo de apoio. Apesar de embasado em artigos científicos, é importante salientar que não foi elaborado por um profissional.
 
 ## Figma
 
