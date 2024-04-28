@@ -23,7 +23,8 @@ Uma descrição mais detalhada do projeto, incluindo sua finalidade, contexto e 
 
 Inclua aqui as imagens dos protótipos de interface do seu projeto. Você pode incluir até 9 imagens.
 
-![Protótipo 1](images/prototipo1.png)
+![Protótipo 1]![pag inicial](https://github.com/paulonunes07x/figma/assets/167910043/2f69ca4d-2760-432b-b766-6176b5c72fe3)
+
 ![Protótipo 2](images/prototipo2.png)
 ![Protótipo 3](images/prototipo3.png)
 ![Protótipo 4](images/prototipo4.png)
