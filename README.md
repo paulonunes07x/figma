@@ -1,21 +1,21 @@
 # MEU SITE DE MUSCULAÇÃO
 
-L
+Olá eu me chamo Paulo Henrique e sou aluno da Kick, e esse é o figma do meu projeto.
 
-## Índice
+## Introdução 
 
-1. [Sobre](#sobre)
-2. [Protótipos](#protótipos)
-3. [Especificações](#especificações)
-4. [Instalação](#instalação)
-5. [Uso](#uso)
-6. [Contribuição](#contribuição)
-7. [Licença](#licença)
-8. [Contato](#contato)
+"Vocês visualizarão o meu projeto Figma da seguinte maneira: primeiro, vou deixar o link do projeto Figma e depois aparecerão todos os protótipos e, finalmente, as informações de design."
 
-## Sobre
+## Aviso Importante
 
+Este site buscará auxiliar aqueles que desejam adentrar no universo da musculação ou buscam conteúdo de apoio. Apesar de embasado em artigos científicos, é importante salientar que não foi elaborado por um profissional
 Uma descrição mais detalhada do projeto, incluindo sua finalidade, contexto e qualquer informação relevante.
+
+## Figma
+
+Aqui está o link que irá levá-los diretamente para o projeto Figma.
+
+[Aqui está o link que irá levá-los diretamente para o projeto Figma](https://www.figma.com/file/nnPw8LJiO2rRR5pMr7BofZ/site-da-kick?type=design&node-id=37%3A91&mode=dev&t=iuUfziebybgk7GMb-1)
 
 ## Protótipos
 
