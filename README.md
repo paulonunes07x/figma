@@ -21,7 +21,7 @@ Aqui está o link que irá levá-los diretamente para o projeto Figma.
 
 ### Protótipos de Interface
 
-Inclua aqui as imagens dos protótipos de interface do seu projeto. Você pode incluir até 9 imagens.
+Aqui esta todos as paginas do meu site.
 
 ![Pag Inicial]![pag inicial](https://github.com/paulonunes07x/figma/assets/167910043/2f69ca4d-2760-432b-b766-6176b5c72fe3)
 
@@ -42,11 +42,7 @@ Inclua aqui as imagens dos protótipos de interface do seu projeto. Você pode i
 ![contato]![contato](https://github.com/paulonunes07x/figma/assets/167910043/491202dd-7ebf-47d5-b591-1ac04c510c44)
 
 
-## Especificações
-
-### Especificações Técnicas
-
-Inclua aqui as imagens das especificações técnicas do seu projeto. Você pode incluir até 4 imagens.
+## Especificação de design
 
 ![Icons]![icons](https://github.com/paulonunes07x/figma/assets/167910043/b1fd3f0e-47d1-49bc-a89f-5925e6b31e47)
 
@@ -55,32 +51,3 @@ Inclua aqui as imagens das especificações técnicas do seu projeto. Você pode
 ![cores]![cores](https://github.com/paulonunes07x/figma/assets/167910043/f29b9a5a-8692-4558-8853-f0501a5fa9f1)
 
 ![logo]![logo](https://github.com/paulonunes07x/figma/assets/167910043/6540773e-9c05-4e56-b7af-9e9699448beb)
-
-
-## Instalação
-
-Instruções detalhadas sobre como instalar o projeto localmente ou em um servidor.
-
-### Pré-requisitos
-
-Liste quaisquer pré-requisitos necessários antes da instalação e forneça links ou instruções sobre como obtê-los.
-
-### Instalação Passo a Passo
-
-1. Passo 1...
-2. Passo 2...
-3. ...
-
-## Uso
-
-Instruções claras sobre como usar o projeto, incluindo exemplos de comandos ou configurações.
-
-## Contribuição
-
-Instruções para contribuir com o projeto, incluindo diretrizes para pull requests e estilo de código.
-
-## Licença
-
-Declare a licença do seu projeto. Por exemplo:
-
-
