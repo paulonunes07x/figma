@@ -4,7 +4,7 @@ Olá eu me chamo Paulo Henrique e sou aluno da Kick, e esse é o figma do meu pr
 
 ## Introdução 
 
-"Vocês visualizarão o meu projeto Figma da seguinte maneira: primeiro, vou deixar o link do projeto Figma e depois aparecerão todos os protótipos e, finalmente, as informações de design."
+Vocês visualizarão o meu projeto Figma da seguinte maneira: primeiro, vou deixar o link do projeto Figma e depois aparecerão todos os protótipos e, finalmente, as informações de design.
 
 ## Aviso Importante
 
