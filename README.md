@@ -14,7 +14,8 @@ Este site buscará auxiliar aqueles que desejam adentrar no universo da muscula�
 
 Aqui está o link que irá levá-los diretamente para o projeto Figma.
 
-[Aqui está o link que irá levá-los diretamente para o projeto Figma](https://www.figma.com/file/nnPw8LJiO2rRR5pMr7BofZ/site-da-kick?type=design&node-id=37%3A91&mode=dev&t=iuUfziebybgk7GMb-1)
+[![Abrir no Figma](https://img.shields.io/badge/Abrir_no_Figma-blue?style=for-the-badge&logo=figma)](https://www.figma.com/file/nnPw8LJiO2rRR5pMr7BofZ/site-da-kick?type=design&node-id=37%3A91&mode=dev&t=iuUfziebybgk7GMb-1)
+
 
 ## Protótipos
 
